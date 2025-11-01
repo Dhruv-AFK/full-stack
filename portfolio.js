@@ -1,0 +1,2 @@
+favouriteMovieGenre("space")
+favouriteFruit("regular")
