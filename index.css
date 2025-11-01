@@ -1,0 +1,19 @@
+body{
+    color:red;
+}
+.main{
+    background-color: aquamarine;
+}
+img{
+    width: 400px;
+}
+
+
+/*
+css:-
+body is a selector 
+color is a property
+red is value
+display:inline make content in 1 line and block made a list
+we can create class for diff div element 
+*/

@@ -1,0 +1,19 @@
+body{
+  
+}
+search_input{
+    width: 800px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.logo_img{
+    width: 700px;
+    align-self: center;
+    display: block;
+    margin: auto;
+}
+button{
+    display: inline;
+    align-content: center;
+}
