@@ -1,11 +1,33 @@
 body{
     color:red;
+    border:8px dotted #ff0000;
+    border-radius:50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .main{
     background-color: aquamarine;
+    border-radius:50px;
 }
 img{
-    width: 400px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.insta{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color : #0f1419;
+    background:white;
+    border: 1px solid #cfd9de;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    
 }
 
 
@@ -16,4 +38,12 @@ color is a property
 red is value
 display:inline make content in 1 line and block made a list
 we can create class for diff div element 
+margin is used to give space outside the element ex- margin-top:10px;
+margin auto is used to center the element , margin:auto; margin-left:auto; margin-right:auto;margin-top:auto; margin-bottom:auto;
+2 margin can be used together ex- margin:10px 20px; (top-bottom left-right)
+2 margin can collide,  but with larger will dominate
+padding is used to give space inside the element ex- padding:10px;
+to center an element it should have display:block, and width should be defined, then margin left/right :auto;
+padding:20px; summarizes padding:top,bottom,left,right :20px;
+border:8px dotted red;
 */
