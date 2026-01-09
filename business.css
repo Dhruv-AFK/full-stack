@@ -1,5 +1,6 @@
 body {
     margin: 20 px;
+    
 }
 
 .avatar{
@@ -14,6 +15,10 @@ body {
     width:400px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 7px solid #d8cefe;
 }
 
 .border-blue{
