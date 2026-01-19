@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    background-color: #a2d2ff;
+    color: #ffffff;
+}
+
+#bff-img{
+    border-radius: 50%;
+    width: 150px;
+    height: 250px;
+    border: 6px solid #EFB0C9;
+}
+
+.happy-monkey-regular {
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
