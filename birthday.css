@@ -44,3 +44,24 @@ h1 , h2 , h4 {
     align-items: center;
 }
 
+.gift-img {
+    margin: 0 auto;
+    width : 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url('gift-wrap.jpg');
+    background-size: cover;
+}
+
+.gift-section{
+    margin-top: 50px;
+}
+
+.gift-title{
+    margin-bottom: 30px;
+}
+
+.gift-img:hover{
+    background-image:url(cry.gif)
+}
