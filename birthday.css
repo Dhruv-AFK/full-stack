@@ -69,3 +69,9 @@ h1 , h2 , h4 {
 #gift-img-hot:hover{
     background-image:url(hot.gif )
 }
+#gift-img-One:hover{
+    background-image:url(one.gif )
+}
+#gift-img-Badass:hover{
+    background-image:url(badass.gif )
+}
