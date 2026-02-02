@@ -62,6 +62,10 @@ h1 , h2 , h4 {
     margin-bottom: 30px;
 }
 
-.gift-img:hover{
-    background-image:url(cry.gif)
+#gift-img-happy:hover{
+    background-image:url(cry.gif )
+}
+
+#gift-img-hot:hover{
+    background-image:url(hot.gif )
 }
