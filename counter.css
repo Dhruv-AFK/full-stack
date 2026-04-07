@@ -1,0 +1,23 @@
+h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size:50px;
+    margin-top:0;
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;    
+}
+#increment-btn:hover{
+    background-color: #45a049;
+}
